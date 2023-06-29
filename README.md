@@ -4,7 +4,7 @@ Welcome to one of my first, fully built out web projects! Cheers to the book *Le
 
 **Check it out here:** https://styles-conference-mn.netlify.app/
 
-![styles-conference-image](https://github.com/malaz-naquib/styles-conference/assets/113329798/7e9809d6-4a50-4243-9ff4-7bebf6ec701a)
+![styles-conference](https://github.com/malaz-naquib/Styles-Conference-Website/assets/113329798/f166bce9-5624-4e9b-a5f9-49e50caef5b4)
 
 ## Description:
 
